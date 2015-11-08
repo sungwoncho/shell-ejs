@@ -1,5 +1,7 @@
 # shell-ejs
 
+[![Build Status](https://travis-ci.org/sungwoncho/shell-ejs.svg?branch=master)](https://travis-ci.org/sungwoncho/shell-ejs)
+
 Write and execute shell scripts with ejs.
 
 
