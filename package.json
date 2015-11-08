@@ -1,0 +1,32 @@
+{
+  "name": "shell-ejs",
+  "version": "0.1.0",
+  "description": "Write and execute shell scripts with ejs",
+  "main": "lib/shell_ejs.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sungwoncho/shell-ejs.git"
+  },
+  "keywords": [
+    "shell",
+    "ejs",
+    "sh",
+    "bash"
+  ],
+  "author": "Sung Won Cho <mikeswcho@gmail.com> (https://sungwoncho.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sungwoncho/shell-ejs/issues"
+  },
+  "homepage": "https://github.com/sungwoncho/shell-ejs#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4"
+  }
+}
